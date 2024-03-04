@@ -15,4 +15,4 @@ Very basic game concept strictly for me to learn some Unreal. Figured I would sh
 
 ## Roadmap
 
-Find an active roadmap here:  (Pad's Supergirl Game Roadmpa)[https://github.com/users/Pads-El/projects/12]
+Find an active roadmap here:  [Pad's Supergirl Game Roadmap](https://github.com/users/Pads-El/projects/12])
