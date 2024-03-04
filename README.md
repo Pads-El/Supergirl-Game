@@ -11,3 +11,8 @@ Very basic game concept strictly for me to learn some Unreal. Figured I would sh
 - Marvelous Designer (Clothing design and sim)
 - InstMat (Texturing)
 - Unreal Engine 5 (Game Engine)
+
+
+## Roadmap
+
+Find an active roadmap here:  https://github.com/users/Pads-El/projects/12
