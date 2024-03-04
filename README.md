@@ -2,7 +2,7 @@
 
 ###  Intro
 
-Very basic game concept strivly for me to learn some unreal. Figured i would share the progress here and hopefuly i can get some  initial feedback. Will be looking to share whatever I create to garner even further feedback.
+Very basic game concept strictly for me to learn some Unreal. Figured I would share the progress here and hopefuly I can get some initial feedback. Will be looking to share whatever I create to garner even further feedback.
 
 #### Dev stack
 
